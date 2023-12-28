@@ -1,16 +1,13 @@
-# cont_id_detection
+# About Container Id Detection:
+This is an app use for detecting a container id, built with Flutter.
 
-A new Flutter project.
+## Packages I am using:
+  * Google's ML Kit for Flutter: [Link](https://pub.dev/packages/google_ml_kit)
+  * Image Picker: [Link](https://pub.dev/packages/image_picker)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Some Screenshots:
+ ![detected](https://github.com/TrucLuong47/container_id_detection/blob/main/preview/detected.png)
+ 
+ ![only_text](https://github.com/TrucLuong47/container_id_detection/blob/main/preview/only%20text.jpg)
+ 
+ ![didn't detected](https://github.com/TrucLuong47/container_id_detection/blob/main/preview/didn't%20detect.jpg)
